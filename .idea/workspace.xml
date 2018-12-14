@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5164774-776f-446f-a38d-15c5d3410646" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/Controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/galvanize/assessment/newzorktimes/Controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/galvanize/assessment/newzorktimes/Controller/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/galvanize/assessment/newzorktimes/NewzorktimesApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/galvanize/assessment/newzorktimes/NewzorktimesApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/galvanize/assessment/newzorktimes/model/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/galvanize/assessment/newzorktimes/model/Payment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/galvanize/assessment/newzorktimes/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/galvanize/assessment/newzorktimes/service/PaymentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/model/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/model/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -45,35 +50,36 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="2" />
-          <entry key="java" value="1426" />
+          <entry key="java" value="1555" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="1426" />
+          <entry key="JAVA" value="1555" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="53" column="67" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
+            <state relative-caret-position="88">
+              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/Controller/PaymentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+            <state relative-caret-position="84">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
                 <element signature="e#773#774#0" expanded="true" />
               </folding>
             </state>
@@ -83,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/service/PaymentService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="111">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#959#960#0" expanded="true" />
@@ -98,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -115,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/model/Payment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="146">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#223#224#0" expanded="true" />
                 <element signature="e#252#253#0" expanded="true" />
@@ -526,10 +532,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/model/Payment.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/service/PaymentService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/PaymentService.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/Controller/PaymentController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/service/PaymentService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/model/Payment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/Controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplicationTests.java" />
       </list>
     </option>
   </component>
@@ -634,7 +641,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544813601006" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544814337416" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -648,7 +655,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NewzorktimesApplication">
+  <component name="RunManager" selected="JUnit.NewzorktimesApplicationTests">
     <configuration name="NewzorktimesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.galvanize.assessment.newzorktimes.NewzorktimesApplication" />
       <module name="newzorktimes_main" />
@@ -699,9 +706,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NewzorktimesApplicationTests" />
         <item itemvalue="Application.NewzorktimesApplication" />
         <item itemvalue="JUnit.NewzorktimesApplicationTests.testDummyStripe" />
-        <item itemvalue="JUnit.NewzorktimesApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -731,12 +738,15 @@
     <history-entry file="NewzorktimesApplicationTests_testDummyStripe - 2018.12.14 at 11h 50m 12s.xml">
       <configuration name="NewzorktimesApplicationTests.testDummyStripe" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NewzorktimesApplicationTests - 2018.12.14 at 12h 04m 10s.xml">
+      <configuration name="NewzorktimesApplicationTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="798" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -746,12 +756,12 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4688385" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5651558" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5424929" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.50141644" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.23937677" />
@@ -777,17 +787,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/Controller/PaymentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="84">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/service/PaymentService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="111">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#959#960#0" expanded="true" />
@@ -798,8 +813,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/model/Payment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="146">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#223#224#0" expanded="true" />
             <element signature="e#252#253#0" expanded="true" />
@@ -821,21 +836,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="53" column="67" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
+        <state relative-caret-position="95">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/galvanize/assessment/newzorktimes/Controller/PaymentController.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/galvanize/assessment/newzorktimes/NewzorktimesApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,8 @@
 package com.galvanize.assessment.newzorktimes.model;
 
+
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class Payment {
 
     private String amount;
